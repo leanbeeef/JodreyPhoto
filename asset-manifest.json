@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JodreyPhoto/static/css/main.ad4bbdcc.css",
+    "main.js": "/JodreyPhoto/static/js/main.c80ec8f8.js",
+    "static/js/453.81a488d3.chunk.js": "/JodreyPhoto/static/js/453.81a488d3.chunk.js",
+    "index.html": "/JodreyPhoto/index.html",
+    "main.ad4bbdcc.css.map": "/JodreyPhoto/static/css/main.ad4bbdcc.css.map",
+    "main.c80ec8f8.js.map": "/JodreyPhoto/static/js/main.c80ec8f8.js.map",
+    "453.81a488d3.chunk.js.map": "/JodreyPhoto/static/js/453.81a488d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4bbdcc.css",
+    "static/js/main.c80ec8f8.js"
+  ]
+}
